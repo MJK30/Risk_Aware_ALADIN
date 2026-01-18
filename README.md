@@ -64,12 +64,6 @@ The framework achieves a state of mathematical harmony that ensures zero impact 
     ```bash
     python src/coordination.py
     ```
-3.  **Generate Visuals**:
-    ```bash
-    python src/postprocessing.py
-    ```
-    * `vpp_before_after.png`: Visual proof of peak reduction.
-    * `vpp_flow_heatmap.png`: The "Handshake" between solar supply and battery demand.
-    * `vpp_fuel_gauge.png`: Real-time monitoring of battery State of Charge (SoC).
+
 
 ---
